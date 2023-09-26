@@ -5,12 +5,12 @@
 I am **Ata** and I am a *MAPSS-Psychology* student. 
 
 My interests include:
-*people watching
-*dancing
-  -at home
-  -at a night club
-*walking
-*drinking
+* people watching
+* dancing
+  * at home
+  * at a night club
+* walking
+* drinking
 
 I went to various places in England last May and here is a picture of me in 
 London Bridge!
