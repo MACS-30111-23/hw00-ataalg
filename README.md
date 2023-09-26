@@ -14,7 +14,7 @@ My interests include:
 
 I went to various places in England last May and here is a picture of me in 
 London Bridge!
-![me in London Bridge](Desktop/MACS_30111/hw00-ataalg/IMG_8265.jpeg)
+![me in London Bridge](https://github.com/ataalg/hw00-ataalg/raw/main/IMG_8265.jpeg)
 
 I also listen to a lot of gay bops such as Troye Sivan and you can access his
 latest song from here. [Got Me Started](https://www.youtube.com/watch?v=WjLcVqjIkLo)
